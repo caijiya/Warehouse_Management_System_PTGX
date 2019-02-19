@@ -15,7 +15,6 @@ public class ResponseUtil {
      */
     public Response newResponseInstance(){
         Response response = new Response();
-
         return response;
     }
 
